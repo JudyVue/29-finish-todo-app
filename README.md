@@ -1,4 +1,4 @@
-401 JS --  Lab 29 Todo
+401 JS --  Lab 29 Finish ToDo
 ===
 
 ## Submission Instructions
